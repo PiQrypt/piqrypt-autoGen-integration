@@ -3,7 +3,7 @@ requires = ["setuptools>=68.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "piqrypt-autogen"
+name = "piqrypt-autoGen-integration"
 version = "1.0.0"
 description = "PiQrypt cryptographic audit trail bridge for Microsoft AutoGen"
 readme = "README.md"
