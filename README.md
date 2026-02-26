@@ -2,8 +2,8 @@
 
 **Verifiable AI Agent Memory_Cryptographic audit trail for Microsoft AutoGen agents.**
 
-[![PyPI](https://img.shields.io/pypi/v/piqrypt-langchain)](https://pypi.org/project/piqrypt-langchain-integration/)
-[![Downloads](https://img.shields.io/pypi/dm/piqrypt-langchain)](https://pypi.org/project/piqrypt-langchain-integration/)
+[![PyPI](https://img.shields.io/pypi/v/piqrypt-langchain)](https://pypi.org/project/piqrypt-autoGen-integration/)
+[![Downloads](https://img.shields.io/pypi/dm/piqrypt-langchain)](https://pypi.org/project/piqrypt-autoGen-integration/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![PiQrypt](https://img.shields.io/badge/powered%20by-PiQrypt-blue)](https://github.com/piqrypt/piqrypt)
 
