@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "piqrypt-autoGen-integration"
-version = "1.0.0"
+version = "1.1.0"
 description = "PiQrypt cryptographic audit trail bridge for Microsoft AutoGen"
 readme = "README.md"
 license = {text = "MIT"}
